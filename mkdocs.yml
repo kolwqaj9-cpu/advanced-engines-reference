@@ -1,0 +1,40 @@
+site_name: "Heavy-Fuel Diesel Engine & Emissions Compliance Reference"
+site_url: https://advanced-engines-corp.com
+site_description: "Heavy-Fuel Diesel Engine & Emissions Compliance Reference: compiled from U.S. federal government publications, with every figure traceable to its source report."
+site_author: "Advanced Engines Archive"
+copyright: "Compiled from public-domain U.S. federal government publications."
+
+docs_dir: docs
+
+theme:
+  name: material
+  features:
+    - navigation.top
+    - navigation.instant
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+nav:
+  - Reference: index.md
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - def_list
+  - footnotes
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+extra:
+  generator: false
