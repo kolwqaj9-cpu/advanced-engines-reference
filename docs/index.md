@@ -93,3 +93,11 @@ EPA's diesel fuel standards program page collects the regulations that reduced t
 Advanced Engines Archive. "Heavy-Fuel Diesel Engine & Emissions Compliance Reference" (2026-10-18 edition). Compiled from public-domain United States federal publications (ecfr.gov, epa.gov, ntrs.nasa.gov). Archived at <https://advanced-engines-corp.com>.
 
 Maintained at <https://advanced-engines-corp.com> — every figure can be traced back to the original report through the links in this document.
+
+## Service pages maintained with this archive
+
+The reference notes above support the production work documented on the shop's own service pages:
+
+* **[Diesel Engine Emissions Testing — Specification Guide](https://advanced-engines-corp.com/services/diesel-engine-emissions-testing.html)** — How heavy-duty diesel emissions tests are run and reported under 40 CFR 1036: cycle selection, dilution, analyzers, moisture correction, and reference-cond
+* **[Engine Dyno Testing Service — Specification Guide](https://advanced-engines-corp.com/services/engine-dyno-testing-service.html)** — How engine dynamometer test campaigns are scoped: cell conditioning, load-point matrix, fuelling and cooling control, torque and speed uncertainty, and acc
+* **[Fuel System Diagnostics — Specification Guide](https://advanced-engines-corp.com/services/fuel-system-diagnostics.html)** — How diesel fuel systems are diagnosed: injection pressure and duration, common-rail versus unit injector signatures, return-flow tests, and nozzle coking e
